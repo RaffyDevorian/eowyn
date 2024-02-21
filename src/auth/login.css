@@ -1,0 +1,76 @@
+.logincw {
+    background-image: url(/src/assets/logincw.png);
+    height: 605px;
+    width: 100%;
+    background-size: 506px;
+    background-repeat: no-repeat;
+    margin-left: 34.1%;
+    margin-top: 12%;
+    
+}
+
+.kiri2 {
+    background-color: #3F7392;
+    width: 50%;
+    height: 739px;
+}
+
+.houston2 {
+    height: 6vh;
+    margin-bottom: 11px !important;
+    margin-left: 3vw;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    font-family: beau;
+    font-size: 50px;
+    color: white;
+    font-weight: 300;
+}
+
+.logincw2 {
+    height: 567px;
+    width: 70%;
+    margin-top: 12%;
+    background-color: rgb(255, 255, 255);
+    margin-left: -4%;
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: 20px;
+    box-shadow:  gray  1px 0px 1px ;
+}
+
+.welcome-login {
+    margin-left: 7%;
+    padding-top: 10%;
+    font-size: 30px;
+    font-weight: 500;
+}
+.welcome-login2 {
+    margin-left: 7%;
+    padding-top: 2px;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.logininput {
+    margin-left: 8%;
+    border: #adadad solid 1px;
+    margin-top: 10%;
+    padding-left: 5px;
+    width: 80%;
+    height: 7%;
+    border-radius: 5px;
+}
+
+.loginbtn {
+    margin-left: 8%;
+    margin-top: 10%;
+    background: #192f3b;
+    color: white;
+    width: 80%;
+}
+
+.logintxt {
+    margin-left: 25%;
+    width: 120%;
+}

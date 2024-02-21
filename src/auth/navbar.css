@@ -1,0 +1,87 @@
+.houston {
+    height: 6vh;
+    margin-bottom: 11px !important;
+    margin-left: 3vw;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    font-family: beau;
+    font-size: 50px;
+    color: black;
+    font-weight: 200;
+}
+
+
+.nav {
+    color: #4e4e4e;
+    font-weight: 700;
+    pointer-events: fill;
+    margin-right: 3vw;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.nav:hover {
+    color: #e08e13;
+    font-weight: 700;
+    pointer-events: fill
+}
+
+.login {
+    border: 2px solid grey ;
+    width: 1vw !important;
+    height: 1vh !important;
+    color: #4e4e4e !important;
+    margin-top: -0.5vh !important;
+    position: relative !important;
+    margin-right: 2vw !important;
+    text-transform: initial !important;
+    border-radius: 10px !important;
+    font-size: 15px !important;
+    width: 95px !important;
+    font-weight: 700 !important;
+}
+
+.btnw:hover {
+    background-color: #000
+}
+
+.navbar {
+    box-shadow: -3px -1px 12px #00000047, 0 -2px 2px #00000024, -1px -5px 5px #0000001f;
+    display: flex;
+    height: 13vh;
+    width: 100%;
+    position: fixed;
+    background-color: #fff;
+    z-index: 999999;
+    color: #4e4e4e;
+    font-weight: 700;
+    font-size: 15px;
+    height: -moz-fit-content;
+    height: fit-content;
+}
+
+.enhance {
+    font-size: 450%;
+    margin-left: 11.5%;
+    color: black;
+    margin-bottom: 1%;
+}
+
+.braincode {
+
+    margin-left: 11.5%;
+    margin-bottom: 2%;
+    font-size: 200%;
+    font-weight: bold;
+    color: #082032;
+}
+
+.is {
+    margin-left: 11.5%;
+    margin-bottom: 5%;
+    color: #082032;
+    text-align: justify;
+    font-size: 20px;
+    font-family: 'pm';
+    font-weight: 400;
+}

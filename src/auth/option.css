@@ -1,0 +1,59 @@
+.orang3 {
+    background-image: url(../assets/wong23.png);
+    width: 30%;
+    height: 665.5px;
+    background-size: 350px;
+    background-repeat: no-repeat;
+    margin-top: 350px;
+    margin-left: 432px;
+}
+.orang2 {
+    background-image: url(../assets/wong23.png);
+    width: 30%;
+    height: 225.5px;
+    background-size: 140px;
+    background-repeat: no-repeat;
+    margin-top: 100px;
+}
+.txt-opt {
+    font-size: 25px;
+    font-family: beau;
+    margin-top: 8%;
+    color: #336A9C;
+    margin-left: 28.5%;
+}
+
+.txt-opt2 {
+    font-size: 60px;
+    font-family: beau;
+    color: black;
+    margin-top: -1%;
+    margin-left: 27.5%;
+}
+
+.txt-opt3 {
+    font-size: 20px;
+    font-family: beau;
+    color: rgb(168, 168, 168);
+    width: 43%;
+    margin-left: 28.5%;
+}
+.txt-opt4 {
+    font-size: 30px;
+    font-family: 'beau';
+    color: black;
+    margin-left: 35%;
+    font-weight: bold;
+    margin-top: 25px;
+    margin-left: 28.5%;
+}
+
+.txt-opt5 {
+    font-size: 30px;
+    font-family: 'beau';
+    color: black;
+    margin-left: 35%;
+    font-weight: bold;
+    margin-top: 25px;
+    margin-left: 28.5%;
+}
